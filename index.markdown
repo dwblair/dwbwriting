@@ -21,8 +21,7 @@ My name is Don Blair. I'm a graduate student in [Physics](http://www.physics.uma
 
 # Wiki / Notes
 
-I'm trying to index various notes and documents on [github in wiki format](https://github.com/dwblair/dwblair.github.com/wiki).  If we're collaborating on something, and we're sharing an online document, you can probably find a link to it there (also accessible via the "Notes" link on the top right of this page).
-
+If we're collaborating on something, and we're sharing a document online, you can probably find a link to it [here](https://github.com/dwblair/dwblair.github.com/wiki).
 
 <!---
 ### Recent Photos
