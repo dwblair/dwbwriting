@@ -1,0 +1,9 @@
+---
+title: Open Science 
+description: Notes and working papers on grassroots, citizen, and civic science.
+tags: biology, diy, openHardware 
+date: 2013-1-6
+---
+
+# February article on Open Science 
+

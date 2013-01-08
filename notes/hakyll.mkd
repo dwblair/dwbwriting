@@ -1,0 +1,10 @@
+---
+title: Hakyll 
+description: Notes on Hakyll, the blogging library used to generate this site. 
+tags: biology, diy, openHardware 
+date: 2013-1-6
+---
+
+# Hakyll
+
+This site was generated using [Hakyll](http://jaspervdj.be/hakyll/index.html), a fantastic blogging library for the Haskell programming language.
