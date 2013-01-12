@@ -13,7 +13,7 @@ title: Home
 My name is Don Blair. I'm a graduate student in [Physics](http://www.physics.umass.edu/) at the [University of Massachusetts](http://www.umass.edu), a Fellow at the [National Center for Digital Government](http://www.umass.edu/digitalcenter/), a local organizer for [The Public Laboratory for Open Technology and Science](http://publiclaboratory.org), and a contributor to [Pioneer Valley Open Science](http://pvos.org). Other places to find me online:
 
 - I contribute to [Public Lab](http://publiclaboratory.org) as "[donblair](http://publiclaboratory.org/people/donblair)";
-- I contribute to [Pioneer Valley Open Science](http://pvos.org) as "[Don](http://pvos.cc/?author=5)";
+- I post on [Pioneer Valley Open Science](http://pvos.org) as "[Don](http://pvos.cc/?author=5)";
 - I'm on [github](http://github.com) as "[dwblair](http://github.com/dwblair)";
 - I'm on [Twitter](http://twitter.com) as "[donwblair](http://twitter.com/donwblair)";
 - I'm on [Skype](http://skype.com) as "dwingateb";
