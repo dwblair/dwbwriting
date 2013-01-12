@@ -10,7 +10,7 @@ title: Home
 
 # About
 
-My name is Don Blair. I'm a graduate student in [Physics](http://www.physics.umass.edu/) at the [University of Massachusetts](http://www.umass.edu), a Fellow at the [National Center for Digital Government](http://www.umass.edu/digitalcenter/), and an organizer for [The Public Laboratory for Open Technology and Science](http://publiclaboratory.org).  This site contains some related [notes](notes.html). Other places to find me online:
+My name is Don Blair. I'm a graduate student in [Physics](http://www.physics.umass.edu/) at the [University of Massachusetts](http://www.umass.edu), a Fellow at the [National Center for Digital Government](http://www.umass.edu/digitalcenter/), a local organizer for [The Public Laboratory for Open Technology and Science](http://publiclaboratory.org), and a contributor to [Pioneer Valley Open Science](http://pvos.org). Other places to find me online:
 
 - I contribute to [Public Lab](http://publiclaboratory.org) as "[donblair](http://publiclaboratory.org/people/donblair)";
 - I contribute to [Pioneer Valley Open Science](http://pvos.org) as "[Don](http://pvos.cc/?author=5)";
@@ -21,7 +21,7 @@ My name is Don Blair. I'm a graduate student in [Physics](http://www.physics.uma
 
 # Wiki / Notes
 
-If we're collaborating on something, and we're sharing a document online, you can probably find a link to it [here](https://github.com/dwblair/dwblair.github.com/wiki).
+If we're collaborating on a project, and we're sharing a document online, might very well find a link to it [here](https://github.com/dwblair/dwblair.github.com/wiki).
 
 <!---
 ### Recent Photos
